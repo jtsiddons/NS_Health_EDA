@@ -1,10 +1,12 @@
 # NS Health Data
 
-## Exploratory Data Analsys & Experimentation
+## Exploratory Data Analysis & Experimentation
 
 Data available at [https://novascotia.ca/dhw/populationhealth/](https://novascotia.ca/dhw/populationhealth/)
 
 Data is extracted from the Annual Notifiable Disease Surveillance Reports using [camelot](https://github.com/camelot-dev/camelot)
+
+The data here is population data no private data of individuals is included, any anonymisation was performed by DHW.
 
 Packages required
 
@@ -20,5 +22,3 @@ There are 2 Jupyter notebooks.
 
 1. Data collection and extraction
 2. Data cleaning, processing, and analysis
-
-## Highlights
